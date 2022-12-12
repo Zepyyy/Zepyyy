@@ -2,23 +2,9 @@
 
 ## 3<sup>rd</sup> year student at [CESI](https://cesi.fr) Engineering School
 
-🌴 Skills ...
-
-- C++
-
-- Python
-
-- HTML / CSS / PHP
-
-- SQL: MySQL / SQLServer
-
-- Delphi
-
-- Git
-
 🌱 I’m currently learning ...
 
-- C# (.NET Core)
+- C++ / C# (.NET Core)
 
 - React.js
 
