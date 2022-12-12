@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**Zepyyy/Zepyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 3<sup>rd</sup> year student at [CESI](https://cesi.fr) Engineering School
 
-Here are some ideas to get you started:
+🌴 Skills ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+
+- Python
+
+- HTML / CSS / PHP
+
+- SQL: MySQL / SQLServer
+
+- Delphi
+
+- Git
+
+🌱 I’m currently learning ...
+
+- C# (.NET Core)
+
+- React.js
+
+🔭 I’m currently working on
+
+- [My website](quentinstubecki.fr)
+
+📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/quentin-stubecki-211419227/)
+
+- [Mail](mailto:quentin.stubecki@viacesi.fr)
