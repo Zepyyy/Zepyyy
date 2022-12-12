@@ -3,6 +3,7 @@
 ## 3<sup>rd</sup> year student at [CESI](https://cesi.fr) Engineering School
 
 🌱 I’m currently learning React.js
+
 🔭 I’m currently working on [My website](quentinstubecki.fr)
 
 📫 How to reach me:
