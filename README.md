@@ -2,9 +2,9 @@
 
 ## 3<sup>rd</sup> year student at [CESI](https://cesi.fr) Engineering School
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning React.js and PyTorch
 
-🔭 I’m currently working on [My website](quentinstubecki.fr)
+🔭 I’m currently an intern @ ADDI-DATA in Kehl working on deep learning.
 
 📫 How to reach me:
 
