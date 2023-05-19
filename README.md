@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React.js and PyTorch
 
-🔭 I’m currently an intern @ [ADDI-DATA](https://www.addi-data.com/en/) in Kehl working on deep learning.
+🔭 I’m currently a student @ [CESI](https://www.cesi.fr) in Strasbourg
 
 📫 How to reach me:
 
