@@ -2,7 +2,7 @@
 
 ## 3<sup>rd</sup> year student at [CESI](https://cesi.fr) Engineering School
 
-🌱 I’m currently learning React.js and PyTorch
+🌱 I’m currently learning React.js and NextJS
 
 🔭 I’m currently a student @ [CESI](https://www.cesi.fr) in Strasbourg
 
