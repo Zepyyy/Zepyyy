@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-## 3<sup>rd</sup> year student at [CESI](https://cesi.fr) Engineering School
+## 4<sup>th</sup> year student at [CESI](https://cesi.fr) Engineering School
 
-🌱 I’m currently learning React.js and NextJS
-
-🔭 I’m currently a student @ [CESI](https://www.cesi.fr) in Strasbourg
+🔭 Student @ [CESI](https://www.cesi.fr) in Strasbourg
 
 📫 How to reach me:
 
