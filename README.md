@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## 4<sup>th</sup> year student at [CESI](https://cesi.fr) Engineering School
+## 5<sup>th</sup> year student at [CESI](https://cesi.fr) Engineering School
 
 🔭 Student @ [CESI](https://www.cesi.fr) in Strasbourg
 
-📫 How to reach me:
+ Reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/quentin-stubecki-211419227/)
 
