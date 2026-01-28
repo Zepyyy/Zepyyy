@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-## 5<sup>th</sup> year student at [CESI](https://cesi.fr) Engineering School
+## Engineer @ [CESI](https://cesi.fr) Engineering School
 
-- 🔭 Student @ [CESI](https://www.cesi.fr) in Strasbourg (Graduating September 2025)
+- 🔭 Engineer @ [CESI](https://www.cesi.fr) in Strasbourg
 - ☕ Coffee enthusiast
 - 🎸 Currently learning to play the guitar ⤵️
   - [Tabasco 🔗](https://tabasco.quentinstubecki.fr/)
